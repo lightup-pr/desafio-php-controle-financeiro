@@ -3,7 +3,7 @@ Desafio PHP | Controle Financeiro
 
 ## Sobre o desafio
 
-Você criará uma api para controle de saldo de pessoas identidicadas pelo CPF. 
+Você criará uma api para controle de saldo de pessoas identificadas pelo CPF. 
 
 
 #### Funcionalidades
