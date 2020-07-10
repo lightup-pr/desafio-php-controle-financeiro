@@ -25,6 +25,8 @@ Você criará uma api para controle de saldo de pessoas identidicadas pelo CPF.
 
 * Todas as operações devem ser registradas.
 
+* Não se preocupe em validar o CPF.
+
 * Utilizar git para controle de versão, fazendo vários commits explicando o que foi feito.
 
 * Fornecer instruções de como executar e utilizar o sistema que deverá ser executado em uma máquina linux.
